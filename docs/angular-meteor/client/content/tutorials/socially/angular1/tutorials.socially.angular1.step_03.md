@@ -140,7 +140,7 @@ First,let's convert our Controller into a Component:
 * We named the Component's controller like we did with `controllerAs`
 * We copied the same controller code into`controller`  
 
-> In Angular 1.5 there is a new `component` object that is shorter then the `directive` syntax
+> In Angular 1.5 there is a new `component` object that is shorter than the `directive` syntax
 
 Now let's create our Component's HTML in a new file we places in the `templateUrl`:
 
